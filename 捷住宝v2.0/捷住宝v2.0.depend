@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1545725500 source:c:\users\93404\desktop\课程设计\捷住宝v2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
